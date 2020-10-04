@@ -12,3 +12,5 @@ At the core, Telegram Bots are special accounts that do not require an additiona
 Send messages and commands to bots by opening a chat with them or by adding them to groups.
 Send requests directly from the input field by typing the bot's @username and a query. This allows sending content from inline bots directly into any chat, group or channel.
 Messages, commands and requests sent by users are passed to the software running on your servers. Our intermediary server handles all encryption and communication with the Telegram API for you. You communicate with this server via a simple HTTPS-interface that offers a simplified version of the Telegram API. We call that interface our Bot API.
+
+![]()
